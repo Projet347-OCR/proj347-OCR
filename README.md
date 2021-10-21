@@ -12,4 +12,4 @@ Automatisation de la mise en place des polices d'assurance
 - opencv-python
 
 ## Pour installer les packages :
-pip install -r requirement.txt
+pip install -r requirements.txt
