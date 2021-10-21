@@ -13,3 +13,6 @@ Automatisation de la mise en place des polices d'assurance
 
 ## Pour installer les packages :
 pip install -r requirements.txt
+
+## Mettre a jour le paquet pip
+python -m pip install --upgrade pip
