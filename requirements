@@ -1,2 +1,2 @@
-pytessseract==0.3.8
-opencv-python==3.4.3.18
+pytesseract==0.3.8
+opencv-python==4.5.4.58
