@@ -8,7 +8,7 @@ Automatisation de la mise en place des polices d'assurance
 - Zeineb YAHIAOUI
 
 ## Packages néccéssaires :
-- pytesseract (pip install pytessseract)
+- pytesseract (pip install pytesseract)
 - opencv-python (pip install opencv-python)
 
 ## Pour installer les packages :
