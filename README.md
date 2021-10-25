@@ -1,5 +1,5 @@
 # proj347-OCR
-Automatisation de la mise en place des polices d'assurance. Le but du projet est de réaliser un application permettant d'extraire les informations sur une carte d'assuré/d'dentité (au format jpeg/jpg/png).
+Automatisation de la mise en place des polices d'assurance. Le but du projet est de réaliser un application permettant d'extraire les informations sur une carte d'assuré/d'dentité (au format jpeg/jpg/png), pour les stocker par la suite dans une base de données.
 
 ### Membres :
 - Samson NZUMGUENG (chef de projet)
