@@ -12,6 +12,8 @@ Automatisation de la mise en place des polices d'assurance. Le but du projet est
 ### Packages néccéssaires :
 - ```pytesseract (pip install pytesseract)```
 - ```opencv-python (pip install opencv-python)```
+- ```easyocr (pip install easyocr)```
+- ```keras-ocr (pip install keras-ocr)```
 
 
 
