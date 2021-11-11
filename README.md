@@ -10,10 +10,14 @@ Automatisation de la mise en place des polices d'assurance. Le but du projet est
 - Zeineb YAHIAOUI
 
 ### Packages néccéssaires :
-- ```pytesseract (pip install pytesseract)```
 - ```opencv-python (pip install opencv-python)```
+- ```matplotlib (pip install matplotlib)```
+- ```pillow (pip install pillow)```
+- ```torch (pip install torch)```
+- ```wheel (pip install wheel)``` 
 - ```easyocr (pip install easyocr)```
-- ```keras-ocr (pip install keras-ocr)```
+- ```pip install pillow torch tifffile scipy PyWavelets networkx imageio torchvision scikit-image easyocr```
+- ```pip (python.exe -m pip install --upgrade pip)```
 
 
 
