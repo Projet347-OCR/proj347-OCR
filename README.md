@@ -1,5 +1,5 @@
 # Projet OCR & traitements d'images
-![code](https://img.shields.io/badge/proj347-projet_OCR-orange)   .     ![code](https://img.shields.io/badge/python_3.10-blue)
+![code](https://img.shields.io/badge/proj347-projet_OCR-orange)   .     ![code](https://img.shields.io/badge/python_3.8.10-blue)
 
 Automatisation de la mise en place des polices d'assurance. Le but du projet est de réaliser un application permettant d'extraire les informations sur d'un permis de conduire (image) et d'une carte grise d'un vehicule (pdf) grace à la technologie OCR pour un stockage dans une base de données. Ensuite, il faudra automatiser le processus de tarification de la compagnie pour que l'assuré puisse connaitre sa cotisation à partir de ses documents préalabment scanné sans aucune intervention humaine.
 
@@ -9,15 +9,9 @@ Automatisation de la mise en place des polices d'assurance. Le but du projet est
 - Meriam MHADHEBI
 - Zeineb YAHIAOUI
 
-### Packages néccéssaires :
-- ```opencv-python (pip install opencv-python)```
-- ```matplotlib (pip install matplotlib)```
-- ```pillow (pip install pillow)```
-- ```torch (pip install torch)```
-- ```wheel (pip install wheel)``` 
-- ```easyocr (pip install easyocr)```
-- ```pip install pillow torch tifffile scipy PyWavelets networkx imageio torchvision scikit-image easyocr```
-- ```pip (python.exe -m pip install --upgrade pip)```
-
+### Packages/modules néccéssaires :
+- ```pip```
+- ```opencv-python```
+- ```easyocr```
 
 
