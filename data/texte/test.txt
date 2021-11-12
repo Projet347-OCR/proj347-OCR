@@ -1,0 +1,18 @@
+champ  : PERMIS DE CoNDUIRE
+champ  : RÉPUBLIQUE FRANÇAISE
+champ  : MARTIN
+champ  : CHARLES
+champ  : 28.03.1980 (PARIS) ,
+champ  : 64
+champ  : 4a. 01.01.2014
+champ  : 4c préfet 75
+champ  : 4b. 01.01.2029
+champ  : 134881624
+champ  : 01.01.2029
+champ  : 2
+champ  : BM/AL/B
+champ  : A2FRA56885689451313102135MARTIN <1
+champ  : QePUBIIQUS
+champ  : RERMIS
+champ  : 2
+champ  : 8
