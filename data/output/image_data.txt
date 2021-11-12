@@ -1,0 +1,25 @@
+[ 
+    { 
+       "champ 1" : "R É P U B L 1 Q U E",
+       "champ 2" : "F R A N Ç A [ S E",
+       "champ 3" : "CARTE NATIONALE DIDENTiTÉ No : 880692310285",
+       "champ 4" : "Nationalité Française",
+       "champ 5" : "BC",
+       "champ 6" : "Nom",
+       "champ 7" : "BERIHIER",
+       "champ 8" : "Prénom(s) : CORINNE",
+       "champ 9" : "Sexe",
+       "champ 10" : "Né(e) le : 06 . 12.1965",
+       "champ 11" : "à : PARIS 1ER",
+       "champ 12" : "75",
+       "champ 13" : "Taille",
+       "champ 14" : "1170",
+       "champ 15" : "Signature",
+       "champ 16" : "du titulaire :",
+       "champ 17" : "Goui",
+       "champ 18" : "Xeke",
+       "champ 19" : "ID FRABERTHIER<<<<<<<<<<<<<<<<<<<<<<<",
+       "champ 20" : "8806923102858CORINNE<<<<<<<6512068F6",
+       "champ 21" : "'GRECIMEN",
+   } 
+]
