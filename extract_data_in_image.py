@@ -14,3 +14,5 @@ text += '   } \n]'
 file = open('data/texte/image_data.txt', 'w')
 file.write(text)
 file.close()
+
+print("Samson")
