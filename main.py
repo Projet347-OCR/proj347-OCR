@@ -11,7 +11,7 @@ text = ''
 a = 0
 for result in results:
     a = a + 1
-    text += 'champ '+ ' : ' + result[1] + '\n'
+    text += 'Champ '+ str(a) + ' : ' + result[1] + '\n'
 
 #print(text)
 #print(len(results))
