@@ -13,5 +13,6 @@ Automatisation de la mise en place des polices d'assurance. Le but du projet est
 - ```pip```
 - ```opencv-python```
 - ```easyocr```
+- ``opencv-contrib-python``
 
 
