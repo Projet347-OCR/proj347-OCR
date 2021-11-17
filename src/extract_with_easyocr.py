@@ -1,13 +1,11 @@
 import easyocr
 import cv2
 
-path_image = 'data/images/er.jpg'
-img = cv2.imread(path_image, 0)
-cv2.imshow('Image', img)
-cv2.waitKey(10)
-# cv2.destroyAllWindows()
+path_input = '../data/images/carte_identite5.jpg'
+path_output = '../data/output/image_data.txt'
 
-reader = easyocr.Reader(['en', 'fr'])
+img = cv2.imread(path_input, 0)
+reader = easyocr.Reader(['fr'])
 results = reader.readtext(img)
 # print(results)
 
@@ -18,7 +16,7 @@ for result in results:
     text += '       "champ '+str(a)+'" : "' + result[1] + '",\n'
 text += '   } \n]'
 
-file = open('data/output/image_data.txt', 'w')
+file = open(path_output, 'w')
 file.write(text)
 file.close()
 

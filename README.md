@@ -15,5 +15,7 @@ Automatisation de la mise en place des polices d'assurance. Le but du projet est
 - ```easyocr```
 - ```CUDA```
 - ```opencv-contrib-python```
+- ``opencv-contrib-python``
+
 
 
