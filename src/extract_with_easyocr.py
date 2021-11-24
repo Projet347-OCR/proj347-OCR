@@ -1,7 +1,7 @@
 import easyocr
 import cv2
 
-path_input = '../data/images/carte_identite5.jpg'
+path_input = '../data/images/carte_identite3.jpg'
 path_output = '../data/output/image_data.txt'
 
 img = cv2.imread(path_input, 0)
@@ -20,4 +20,4 @@ file = open(path_output, 'w')
 file.write(text)
 file.close()
 
-print("fin - Samson")
+print("fin")

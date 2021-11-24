@@ -5,25 +5,6 @@ from scipy.interpolate import UnivariateSpline
 image = cv2.imread('data/images/flou.png')
 
 
-
-def spreadLookupTable(x, y):
-  spline = UnivariateSpline(x, y)
-  return spline(range(256))
-def warmImage(image):
-    increaseLookupTable = spreadLookupTable([0, 64, 128, 256], [0, 80, 160, 256])
-    decreaseLookupTable = spreadLookupTable([0, 64, 128, 256], [0, 50, 100, 256])
-    red_channel, green_channel, blue_channel = cv2.split(image)
-    red_channel = cv2.LUT(red_channel, increaseLookupTable).astype(np.uint8)
-    blue_channel = cv2.LUT(blue_channel, decreaseLookupTable).astype(np.uint8)
-    return cv2.merge((red_channel, green_channel, blue_channel))
-def coldImage(image):
-    increaseLookupTable = spreadLookupTable([0, 64, 128, 256], [0, 80, 160, 256])
-    decreaseLookupTable = spreadLookupTable([0, 64, 128, 256], [0, 50, 100, 256])
-    red_channel, green_channel, blue_channel = cv2.split(image)
-    red_channel = cv2.LUT(red_channel, decreaseLookupTable).astype(np.uint8)
-    blue_channel = cv2.LUT(blue_channel, increaseLookupTable).astype(np.uint8)
-    return cv2.merge((red_channel, green_channel, blue_channel))
-
 cv2.imshow('Original Image', image)
 cv2.waitKey(0)
 
