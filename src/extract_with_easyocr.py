@@ -1,8 +1,8 @@
 import easyocr
 import cv2
 
-path_input = '../data/images/permis_de_conduire2.png'
-path_output = '../data/output/image_data.txt'
+path_input = '../data/images/gray.png'
+path_output = '../data/output/test_data.txt'
 
 img = cv2.imread(path_input, 0)
 inverted_img = cv2.bitwise_not(img)

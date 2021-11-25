@@ -1,0 +1,117 @@
+### JetBrains ###
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# User-specific stuff: .idea/workspace.xml .idea/tasks.xml .idea/dictionaries .idea/vcs.xml .idea/jsLibraryMappings.xml
+
+# Sensitive or high-churn files: .idea/dataSources.ids .idea/dataSources.xml .idea/dataSources.local.xml .idea/sqlDataSources.xml .idea/dynamic.xml .idea/uiDesigner.xml
+
+# Gradle: .idea/gradle.xml .idea/libraries
+
+# Mongo Explorer plugin: .idea/mongoSettings.xml
+
+## File-based project format:
+*.iws
+
+## Plugin-specific files:
+
+# IntelliJ /out/
+
+# mpeltonen/sbt-idea plugin .idea_modules/
+
+# JIRA plugin atlassian-ide-plugin.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ) com_crashlytics_export_strings.xml crashlytics.properties crashlytics-build.properties fabric.properties
+
+### JetBrains Patch ###
+# Comment Reason: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-215987721
+
+# *.iml
+# modules.xml
+# .idea/misc.xml
+# *.ipr
+binary.png
+data/images/floue.jpg
+data/images/flouimg.png
+data/images/gray.png
+data/output/test_data.txt
+nett.png
+plus_nett.png
+preprocessing/__pycache__/
+venv/Include/
+venv/Lib/site-packages/PIL/
+venv/Lib/site-packages/Pillow-8.2.0.dist-info/
+venv/Lib/site-packages/PyWavelets-1.2.0.dist-info/
+venv/Lib/site-packages/PyYAML-6.0.dist-info/
+venv/Lib/site-packages/__pycache__/
+venv/Lib/site-packages/_yaml/
+venv/Lib/site-packages/bidi/
+venv/Lib/site-packages/caffe2/
+venv/Lib/site-packages/cv2/
+venv/Lib/site-packages/cycler-0.11.0.dist-info/
+venv/Lib/site-packages/cycler.py
+venv/Lib/site-packages/dateutil/
+venv/Lib/site-packages/easyocr-1.4.1.dist-info/
+venv/Lib/site-packages/easyocr/
+venv/Lib/site-packages/fontTools/
+venv/Lib/site-packages/fonttools-4.28.2.dist-info/
+venv/Lib/site-packages/imageio-2.9.0.dist-info/
+venv/Lib/site-packages/imageio/
+venv/Lib/site-packages/kiwisolver-1.3.2.dist-info/
+venv/Lib/site-packages/kiwisolver.cp38-win_amd64.pyd
+venv/Lib/site-packages/matplotlib-3.5.0-py3.8-nspkg.pth
+venv/Lib/site-packages/matplotlib-3.5.0.dist-info/
+venv/Lib/site-packages/matplotlib/
+venv/Lib/site-packages/mpl_toolkits/
+venv/Lib/site-packages/networkx-2.6.3.dist-info/
+venv/Lib/site-packages/networkx/
+venv/Lib/site-packages/numpy-1.21.4.dist-info/
+venv/Lib/site-packages/numpy/
+venv/Lib/site-packages/opencv_contrib_python-4.5.4.60.dist-info/
+venv/Lib/site-packages/opencv_python-4.5.4.60.dist-info/
+venv/Lib/site-packages/opencv_python_headless-4.5.4.60.dist-info/
+venv/Lib/site-packages/packaging-21.3.dist-info/
+venv/Lib/site-packages/packaging/
+venv/Lib/site-packages/pylab.py
+venv/Lib/site-packages/pyparsing-3.0.6.dist-info/
+venv/Lib/site-packages/pyparsing/
+venv/Lib/site-packages/python_bidi-0.4.2.dist-info/
+venv/Lib/site-packages/python_dateutil-2.8.2.dist-info/
+venv/Lib/site-packages/pywt/
+venv/Lib/site-packages/scikit_image-0.18.3.dist-info/
+venv/Lib/site-packages/scipy-1.7.2.dist-info/
+venv/Lib/site-packages/scipy/
+venv/Lib/site-packages/setuptools_scm-6.3.2.dist-info/
+venv/Lib/site-packages/setuptools_scm/
+venv/Lib/site-packages/six-1.16.0.dist-info/
+venv/Lib/site-packages/six.py
+venv/Lib/site-packages/skimage/
+venv/Lib/site-packages/tifffile-2021.11.2.dist-info/
+venv/Lib/site-packages/tifffile/
+venv/Lib/site-packages/tomli-1.2.2.dist-info/
+venv/Lib/site-packages/tomli/
+venv/Lib/site-packages/torch-1.10.0.dist-info/
+venv/Lib/site-packages/torch/
+venv/Lib/site-packages/torchvision-0.11.1.dist-info/
+venv/Lib/site-packages/torchvision/
+venv/Lib/site-packages/typing_extensions-4.0.0.dist-info/
+venv/Lib/site-packages/typing_extensions.py
+venv/Lib/site-packages/yaml/
+venv/Scripts/convert-caffe2-to-onnx.exe
+venv/Scripts/convert-onnx-to-caffe2.exe
+venv/Scripts/easyocr.exe
+venv/Scripts/f2py.exe
+venv/Scripts/fonttools.exe
+venv/Scripts/imageio_download_bin.exe
+venv/Scripts/imageio_remove_bin.exe
+venv/Scripts/lsm2bin.exe
+venv/Scripts/pybidi.exe
+venv/Scripts/pyftmerge.exe
+venv/Scripts/pyftsubset.exe
+venv/Scripts/skivi.exe
+venv/Scripts/tiff2fsspec.exe
+venv/Scripts/tiffcomment.exe
+venv/Scripts/tifffile.exe
+venv/Scripts/torchrun.exe
+venv/Scripts/ttx.exe
+venv/share/
