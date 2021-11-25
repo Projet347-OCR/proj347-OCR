@@ -1,0 +1,11 @@
+- rendre le fond d'ecran transparent [Brandy]
+- augmentation des pixels (pour rendre une image floue, claire) [Zeineb]
+- la rotation d'angle (la rendre droite)
+- rogner l'image, 
+- La reconstitution du fichier texte (organiser les données récupérées)
+
+Après la reunion Point projet :
+ - trouver le bon filtre 
+ - les limites des filtres
+ - finaliser l'extraction sur une image nette et arranger par nom, prenom, type de carte... dans un fichier JSON/txt
+

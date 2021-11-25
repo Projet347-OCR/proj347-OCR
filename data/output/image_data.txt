@@ -1,51 +1,11 @@
-[ 
-    { 
-       "champ 1" : "FACE AVANT DE LA CARTE",
-       "champ 2" : "FACE ARRIÈRE DE LA CARTE",
-       "champ 3" : "TAILLE / Hogn",
-       "champ 4" : "DE DELIVRANCE",
-       "champ 5" : "Dae @ssue",
-       "champ 6" : "RÉPUBLIQUE FRANÇAISE",
-       "champ 7" : "FR",
-       "champ 8" : "1,68 m",
-       "champ 9" : "'258292026",
-       "champ 10" : "CARTE NATIONALE D'IDENTITÉ / IDENTITY CARD",
-       "champ 11" : "ADRESSE",
-       "champ 12" : "Addiess",
-       "champ 13" : "NoM",
-       "champ 14" : "Swnen",
-       "champ 15" : "44 rue DESIRE SAINT Clement",
-       "champ 16" : "MARTIN",
-       "champ 17" : "RESIDENCE DU PLEIN AIR BAT 4",
-       "champ 18" : "33000 BORDEAUX",
-       "champ 19" : "FRANCE",
-       "champ 20" : "Pranoms",
-       "champ 21" : "Gacnnanes",
-       "champ 22" : "Maëlys-Gaëlle , Marie",
-       "champ 23" : "1",
-       "champ 24" : "SEXE",
-       "champ 25" : "S0 <",
-       "champ 26" : "NATIONALITE",
-       "champ 27" : "Hetond ",
-       "champ 28" : "DATE DE NAISS / Daeolbitn",
-       "champ 29" : "F",
-       "champ 30" : "FRA",
-       "champ 31" : "13 07 1990",
-       "champ 32" : "UEU DE NAISSANCE",
-       "champ 33" : "Paca ot birth",
-       "champ 34" : "PARIS",
-       "champ 35" : "REPUBlIQUe FRANÇAIS E",
-       "champ 36" : "NOM D USAGE",
-       "champ 37" : "Arcmnate rone",
-       "champ 38" : "NOM D'USAGE",
-       "champ 39" : "N" DU DOCUMENT / Docunenho",
-       "champ 40" : "DATE DEXPIR / Epr ie",
-       "champ 41" : "XARTBPFW4",
-       "champ 42" : "71 02 2030",
-       "champ 43" : "ID FRAX4RTBPFW46<<<<<<<<<<<<<<<",
-       "champ 44" : "9007138F3002119FRA <<<<<<<<<<<6",
-       "champ 45" : "Sucnatuvte",
-       "champ 46" : "384213",
-       "champ 47" : "MARTIN<<MAELYS<GAELLE<MARIE<<<",
-   } 
-]
+PAYS : RÉPUBLIQUE FRANÇAISE
+TYPE DE PIECE : CARTE NATIONALE D'IDENTITE / IDENTITY CARD
+NOM(S) : Prénoms
+PRENOM(S) : Marie
+SEXE : FRA
+NATIONALITE : 13 07 1990
+DATE DE NAISSANCE : LIEU DE NAISSANCE
+LIEU DE NAISSANCE : NOM DUSAGE
+NOM D_USAGE : NOM D'USAGE
+NUMERO DOCUMENT : XARTBPFW4
+DATE EXPIRATION : 71 02 2030
