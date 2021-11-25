@@ -6,14 +6,13 @@ Automatisation de la mise en place des polices d'assurance. Le but du projet est
 ### Membres :
 - Samson NZUMGUENG ![code](https://img.shields.io/badge/chef_de_projet-green)
 - Brandy MASSADO
-- Meriam MHADHBI
+- Meriam MHADHEBI
 - Zeineb YAHIAOUI
 
 ### Packages/modules néccéssaires :
 - ```pip```
 - ```opencv-python```
 - ```easyocr```
-- ```CUDA```
-- ```opencv-contrib-python```
+- ``opencv-contrib-python``
 
 
