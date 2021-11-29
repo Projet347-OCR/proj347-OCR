@@ -2,6 +2,7 @@ import easyocr
 import cv2
 
 path_input = '../data/images/(2)carte_identite1.png'
+#path_input = '../data/images/carte_identite2.jpg'
 path_output = '../data/output/image_data.txt'
 
 

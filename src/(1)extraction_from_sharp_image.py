@@ -1,8 +1,8 @@
 import easyocr
 import cv2
 
-path_input = '../data/images/carte_identite4.jpeg'
-# path_input = '../data/images/(1)carte_identite3.jpg'
+# path_input = '../data/images/carte_identite4.jpeg'
+path_input = '../data/images/(1)carte_identite3.jpg'
 path_output = '../data/output/image_data.txt'
 
 img = cv2.imread(path_input, 0)
@@ -27,6 +27,7 @@ texte += 'NOM D_USAGE : '+str(L[20])+'\n'
 texte += 'NUMERO DOCUMENT : '+str(L[23])+'\n'
 texte += 'DATE EXPIRATION : '+str(L[24])
 print(texte)
+
 
 file = open(path_output, 'w')
 file.write(str(texte))
