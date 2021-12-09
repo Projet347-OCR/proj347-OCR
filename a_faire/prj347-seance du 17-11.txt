@@ -20,4 +20,8 @@ CNI :                                           PERMIS DE CONDUIRE :
  - PRENOM                                           - DATE & LIEU DE NAISSANCE (3 sur les anciennes et 2 & 3 sur les nouvelles)
  - SEXE                                             - date de delivrance (4a) & date de fin de validité (4c)
  - DATE & LIEU DE NAISSANCE                         - NUMERO DE LA PIECE (5)
-                                                    - CATEGORIE DU PERMIS (9)
+ - NUMERO DE LA PIECE                               - CATEGORIE DU PERMIS (9)
+
+
+
+- Apprentissage automatique (machine learning)

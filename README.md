@@ -10,9 +10,10 @@ Automatisation de la mise en place des polices d'assurance. Le but du projet est
 - Zeineb YAHIAOUI
 
 ### Packages/modules néccéssaires :
-- ```pip```
-- ```opencv-python```
-- ```easyocr```
-- ``opencv-contrib-python``
+- `` pip install opencv-python ``
+- `` pip install easyocr ``
+- `` pip install opencv-contrib-python ``
+- `` pip install easygui ``
+- `` pip install jaro-winkler ``
 
 

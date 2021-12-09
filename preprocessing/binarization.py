@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-import inverted as inv
+from preprocessing import inverted as inv
 
 
 def grayscale(image):
